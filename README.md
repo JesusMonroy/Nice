@@ -1,2 +1,3 @@
 # Nice
 Just practicing
+Hi i hope to learn git quickly...
